@@ -1,0 +1,402 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:2:1-98:12
+MERGED from [androidx.databinding:databinding-adapters:7.1.1] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\32e98f92b65e987d63640494b6d183b6\transformed\databinding-adapters-7.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-ktx:7.1.1] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\d63e500312c70f37d08c4193efa1fedc\transformed\jetified-databinding-ktx-7.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:7.1.1] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\1136005a18583af781ffa7afab7867b0\transformed\databinding-runtime-7.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\6dc1261a4d466580918f96823f585a60\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\67a71156ae9ad6aa85b6f53ac894e20d\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\d34edc4e4a493045d61f6238d86caa93\transformed\jetified-core-ktx-1.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\d9c40ea5e4502eddfc3929e3ac2f6d83\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\53879bc6059a586b7460008be505bb83\transformed\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\20397af43d341be6155c11f75244d891\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\53b0b0d92fa87c2d6789748dac78b894\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\b6f783fbe077670dc4da8de4170a1375\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\b0dd575db5beccf83b70ea03d4fec05a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\d77ca74251055f08f506c0d17278ed19\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\c4f0fb1c6ee36b4a765796c4ad951853\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\9bbfd14de6888e4cf8983f44d3cd8d1a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\b57e0a56b24a36cfcaf97e99e3edeaaa\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\1750f1da68724a80beb5fba81f17c62b\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\42596f4fbb305de869b8328e78d4d5d3\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ceb6791b2117d507da70c459fe9516bf\transformed\fragment-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\383fcda1d45d970e33a701833d021301\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\538b3ede935e154058ca898c04490f5a\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\3546251fb361241172d75dba9a94fb08\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\bd8a358d34e6df01075a02955242e183\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\0a1957f2eabbf0964997eb711390670f\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\51aba663877577789b64f93fe65ff05d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\8878b667af4a09b95871d52f6139d660\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ba75ff459544a64df918581fd2aa7971\transformed\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5573e8e30c5ee4a56c4d48ca8a26980e\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\fff4ad01b0de7ff405cd25c0955bdfb5\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\6d98a1bb60f9c1bed214156c3c70734d\transformed\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\dcfd7ec9cc28744113cabf9542f8cbfd\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.1.1] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\4fce02a9824770e471122ed9c72fc5b0\transformed\jetified-viewbinding-7.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\53fe368ce24e00d9b6518d1e03738d85\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ba060f7c5ad25f9740de62d5c6a2d55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\1ed23f56ab00314df099148ecde4b8a5\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\9ae3550481e38d7f1fa1676190410a9c\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ccaadb0ff6a71c765f9cd1e75c69d627\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\168716d2bbd85e8d9726883ee25050fa\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\dccc8235cbef58dadfe19e58a1cac41b\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\7e9709833be9937f8bee0513b68b89ce\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\e6b5a538e07244a8cd6c56d7724f2d3c\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\fbd22755b4a928bc04e27a7979f85200\transformed\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\85bcaf53e66659a91ff9736c491c0f4c\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\21a1bc7b1a8662cee6e2ab1b562586c1\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ed57b920b50b9f9c2645de96da984ecc\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\00abaddcf421ec756dc9abe3ccdfc613\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\9ff84eb0c4e5f55c7d70631206fd29ca\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\f35b091e13556fd2dbb3363b8c3aaa67\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\42fba3f78bff66da5b48bd9a76dd4f42\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\007e2dbb8fc1093dec505a23416aa0d4\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:2:1-98:12
+	package
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:2:1-98:12
+		INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:2:1-98:12
+		INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:11:5-67
+MERGED from [net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:6:5-80
+MERGED from [net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:12:5-80
+MERGED from [net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:13:5-81
+MERGED from [net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:8:22-69
+permission#com.insecureshop.permission.READ
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:10:17-64
+application
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:12:5-96:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\6dc1261a4d466580918f96823f585a60\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\6dc1261a4d466580918f96823f585a60\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:16:5-22:19
+MERGED from [net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:16:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\d9c40ea5e4502eddfc3929e3ac2f6d83\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\d9c40ea5e4502eddfc3929e3ac2f6d83\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\53879bc6059a586b7460008be505bb83\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\53879bc6059a586b7460008be505bb83\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\42596f4fbb305de869b8328e78d4d5d3\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\42596f4fbb305de869b8328e78d4d5d3\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.3.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\6d98a1bb60f9c1bed214156c3c70734d\transformed\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\6d98a1bb60f9c1bed214156c3c70734d\transformed\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\dcfd7ec9cc28744113cabf9542f8cbfd\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\dcfd7ec9cc28744113cabf9542f8cbfd\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ba060f7c5ad25f9740de62d5c6a2d55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ba060f7c5ad25f9740de62d5c6a2d55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\dccc8235cbef58dadfe19e58a1cac41b\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\dccc8235cbef58dadfe19e58a1cac41b\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\6d98a1bb60f9c1bed214156c3c70734d\transformed\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:19:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:20:9-44
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.insecureshop.ChooserActivity
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:21:9-44:20
+	android:excludeFromRecents
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:23:13-46
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:22:13-44
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:27:27-73
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:application/*+data:mimeType:audio/*+data:mimeType:image/*+data:mimeType:text/*+data:mimeType:video/*
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:29:13-39:29
+action#android.intent.action.SEND
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:30:25-66
+data
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:34:17-58
+	android:host
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:64:21-52
+	android:scheme
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:65:21-50
+	android:mimeType
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:34:23-55
+meta-data#android.service.chooser.chooser_target_service
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:41:13-43:69
+	android:value
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:43:17-66
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:42:17-78
+activity#com.insecureshop.AboutUsActivity
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:45:9-47:39
+	android:exported
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:47:13-36
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:46:13-44
+activity#com.insecureshop.CartListActivity
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:48:9-54
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:48:19-51
+activity#com.insecureshop.ProductListActivity
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:49:9-55:20
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:49:19-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:50:13-54:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:53:27-74
+activity#com.insecureshop.LoginActivity
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:56:9-51
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:56:19-48
+activity#com.insecureshop.WebViewActivity
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:57:9-67:20
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:57:19-50
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:com.insecureshop+data:scheme:insecureshop
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:58:13-66:29
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:61:17-78
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:61:27-75
+activity#com.insecureshop.WebView2Activity
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:68:9-74:20
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:68:19-51
+intent-filter#action:name:com.insecureshop.action.WEBVIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:69:13-73:29
+action#com.insecureshop.action.WEBVIEW
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:70:17-74
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:70:25-71
+activity#com.insecureshop.PrivateActivity
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:75:9-77:40
+	android:exported
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:77:13-37
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:76:13-44
+activity#com.insecureshop.SendingDataViaActionActivity
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:78:9-80:20
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:78:19-63
+activity#com.insecureshop.ResultActivity
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:81:9-75
+	android:exported
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:81:50-73
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:81:19-49
+provider#com.insecureshop.contentProvider.InsecureShopProvider
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:82:9-86:73
+	android:readPermission
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:86:13-70
+	android:authorities
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:84:13-60
+	android:exported
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:85:13-36
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:83:13-65
+provider#androidx.core.content.FileProvider
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:87:9-95:20
+	android:grantUriPermissions
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:91:13-47
+	android:authorities
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:89:13-65
+	android:exported
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:90:13-37
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:88:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:92:13-94:58
+	android:resource
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:94:17-55
+	android:name
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:93:17-67
+uses-sdk
+INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.1.1] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\32e98f92b65e987d63640494b6d183b6\transformed\databinding-adapters-7.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.1.1] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\32e98f92b65e987d63640494b6d183b6\transformed\databinding-adapters-7.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.1] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\d63e500312c70f37d08c4193efa1fedc\transformed\jetified-databinding-ktx-7.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.1] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\d63e500312c70f37d08c4193efa1fedc\transformed\jetified-databinding-ktx-7.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.1] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\1136005a18583af781ffa7afab7867b0\transformed\databinding-runtime-7.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.1] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\1136005a18583af781ffa7afab7867b0\transformed\databinding-runtime-7.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\6dc1261a4d466580918f96823f585a60\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\6dc1261a4d466580918f96823f585a60\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:7:5-9:41
+MERGED from [net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\67a71156ae9ad6aa85b6f53ac894e20d\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\67a71156ae9ad6aa85b6f53ac894e20d\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\d34edc4e4a493045d61f6238d86caa93\transformed\jetified-core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\d34edc4e4a493045d61f6238d86caa93\transformed\jetified-core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\d9c40ea5e4502eddfc3929e3ac2f6d83\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\d9c40ea5e4502eddfc3929e3ac2f6d83\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\53879bc6059a586b7460008be505bb83\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\53879bc6059a586b7460008be505bb83\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\20397af43d341be6155c11f75244d891\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\20397af43d341be6155c11f75244d891\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\53b0b0d92fa87c2d6789748dac78b894\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\53b0b0d92fa87c2d6789748dac78b894\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\b6f783fbe077670dc4da8de4170a1375\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\b6f783fbe077670dc4da8de4170a1375\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\b0dd575db5beccf83b70ea03d4fec05a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\b0dd575db5beccf83b70ea03d4fec05a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\d77ca74251055f08f506c0d17278ed19\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\d77ca74251055f08f506c0d17278ed19\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\c4f0fb1c6ee36b4a765796c4ad951853\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\c4f0fb1c6ee36b4a765796c4ad951853\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\9bbfd14de6888e4cf8983f44d3cd8d1a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\9bbfd14de6888e4cf8983f44d3cd8d1a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\b57e0a56b24a36cfcaf97e99e3edeaaa\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\b57e0a56b24a36cfcaf97e99e3edeaaa\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\1750f1da68724a80beb5fba81f17c62b\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\1750f1da68724a80beb5fba81f17c62b\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\42596f4fbb305de869b8328e78d4d5d3\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\42596f4fbb305de869b8328e78d4d5d3\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ceb6791b2117d507da70c459fe9516bf\transformed\fragment-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ceb6791b2117d507da70c459fe9516bf\transformed\fragment-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\383fcda1d45d970e33a701833d021301\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\383fcda1d45d970e33a701833d021301\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\538b3ede935e154058ca898c04490f5a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\538b3ede935e154058ca898c04490f5a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\3546251fb361241172d75dba9a94fb08\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\3546251fb361241172d75dba9a94fb08\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\bd8a358d34e6df01075a02955242e183\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\bd8a358d34e6df01075a02955242e183\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\0a1957f2eabbf0964997eb711390670f\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\0a1957f2eabbf0964997eb711390670f\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\51aba663877577789b64f93fe65ff05d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\51aba663877577789b64f93fe65ff05d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\8878b667af4a09b95871d52f6139d660\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\8878b667af4a09b95871d52f6139d660\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ba75ff459544a64df918581fd2aa7971\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ba75ff459544a64df918581fd2aa7971\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5573e8e30c5ee4a56c4d48ca8a26980e\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5573e8e30c5ee4a56c4d48ca8a26980e\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\fff4ad01b0de7ff405cd25c0955bdfb5\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\fff4ad01b0de7ff405cd25c0955bdfb5\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\6d98a1bb60f9c1bed214156c3c70734d\transformed\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\6d98a1bb60f9c1bed214156c3c70734d\transformed\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\dcfd7ec9cc28744113cabf9542f8cbfd\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\dcfd7ec9cc28744113cabf9542f8cbfd\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.1] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\4fce02a9824770e471122ed9c72fc5b0\transformed\jetified-viewbinding-7.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.1] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\4fce02a9824770e471122ed9c72fc5b0\transformed\jetified-viewbinding-7.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\53fe368ce24e00d9b6518d1e03738d85\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\53fe368ce24e00d9b6518d1e03738d85\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ba060f7c5ad25f9740de62d5c6a2d55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ba060f7c5ad25f9740de62d5c6a2d55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\1ed23f56ab00314df099148ecde4b8a5\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\1ed23f56ab00314df099148ecde4b8a5\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\9ae3550481e38d7f1fa1676190410a9c\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\9ae3550481e38d7f1fa1676190410a9c\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ccaadb0ff6a71c765f9cd1e75c69d627\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ccaadb0ff6a71c765f9cd1e75c69d627\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\168716d2bbd85e8d9726883ee25050fa\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\168716d2bbd85e8d9726883ee25050fa\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\dccc8235cbef58dadfe19e58a1cac41b\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\dccc8235cbef58dadfe19e58a1cac41b\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\7e9709833be9937f8bee0513b68b89ce\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\7e9709833be9937f8bee0513b68b89ce\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\e6b5a538e07244a8cd6c56d7724f2d3c\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\e6b5a538e07244a8cd6c56d7724f2d3c\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\fbd22755b4a928bc04e27a7979f85200\transformed\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\fbd22755b4a928bc04e27a7979f85200\transformed\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\85bcaf53e66659a91ff9736c491c0f4c\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\85bcaf53e66659a91ff9736c491c0f4c\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\21a1bc7b1a8662cee6e2ab1b562586c1\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\21a1bc7b1a8662cee6e2ab1b562586c1\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ed57b920b50b9f9c2645de96da984ecc\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ed57b920b50b9f9c2645de96da984ecc\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\00abaddcf421ec756dc9abe3ccdfc613\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\00abaddcf421ec756dc9abe3ccdfc613\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\9ff84eb0c4e5f55c7d70631206fd29ca\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\9ff84eb0c4e5f55c7d70631206fd29ca\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\f35b091e13556fd2dbb3363b8c3aaa67\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\f35b091e13556fd2dbb3363b8c3aaa67\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\42fba3f78bff66da5b48bd9a76dd4f42\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\42fba3f78bff66da5b48bd9a76dd4f42\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\007e2dbb8fc1093dec505a23416aa0d4\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\007e2dbb8fc1093dec505a23416aa0d4\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from [net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:14:22-65
+service#net.gotev.uploadservice.UploadService
+ADDED from [net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:17:9-21:19
+	android:enabled
+		ADDED from [net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:19:13-35
+	android:exported
+		ADDED from [net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from [net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:18:13-65
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ba060f7c5ad25f9740de62d5c6a2d55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ba060f7c5ad25f9740de62d5c6a2d55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ba060f7c5ad25f9740de62d5c6a2d55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ba060f7c5ad25f9740de62d5c6a2d55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ba060f7c5ad25f9740de62d5c6a2d55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79

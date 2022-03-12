@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\base_main.xml",
+        "source": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\src\\main\\res\\layout\\base_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_private.xml",
+        "source": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\src\\main\\res\\layout\\activity_private.xml"
+    },
+    {
+        "merged": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\upload_success_dialog.xml",
+        "source": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\src\\main\\res\\layout\\upload_success_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\toolbar.xml",
+        "source": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_implicit_intent_for_non_exported.xml",
+        "source": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\src\\main\\res\\layout\\activity_implicit_intent_for_non_exported.xml"
+    },
+    {
+        "merged": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\cart_item.xml",
+        "source": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\src\\main\\res\\layout\\cart_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\product_item.xml",
+        "source": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\src\\main\\res\\layout\\product_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_webview.xml",
+        "source": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_loading_dialog.xml",
+        "source": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\src\\main\\res\\layout\\app_loading_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\elizondo.mikel\\Desktop\\ESJ- Gehigarriak\\InsecureShop-Ziber\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

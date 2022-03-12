@@ -1,17 +1,21 @@
 package com.insecureshop.util
 
 import android.content.Context
+import android.os.Build
+import androidx.annotation.RequiresApi
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import com.insecureshop.ProductDetail
 import kotlin.collections.ArrayList
 import kotlin.collections.HashMap
 
+@RequiresApi(Build.VERSION_CODES.N)
 object Util {
 
     private fun getUserCreds(): HashMap<String,String> {
         val userCreds = HashMap<String, String>()
         userCreds["shopuser"] = "!ns3csh0p"
+        userCreds["admin"] = "admin"
         return userCreds
     }
 

@@ -2,10 +2,12 @@ package com.insecureshop
 
 import android.content.Intent
 import android.content.IntentFilter
+import android.os.Build
 import android.os.Bundle
 import android.text.TextUtils
 import android.view.Menu
 import android.view.MenuItem
+import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
 import com.insecureshop.broadcast.ProductDetailBroadCast
@@ -13,7 +15,7 @@ import com.insecureshop.util.Prefs
 import com.insecureshop.util.Util
 import kotlinx.android.synthetic.main.activity_product_list.*
 
-
+@RequiresApi(Build.VERSION_CODES.N)
 class ProductListActivity : AppCompatActivity() {
     private val productDetailBroadCast = ProductDetailBroadCast()
     override fun onCreate(savedInstanceState: Bundle?) {

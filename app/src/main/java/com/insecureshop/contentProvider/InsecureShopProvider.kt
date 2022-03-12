@@ -6,9 +6,11 @@ import android.content.UriMatcher
 import android.database.Cursor
 import android.database.MatrixCursor
 import android.net.Uri
+import android.os.Build
+import androidx.annotation.RequiresApi
 import com.insecureshop.util.Prefs
 
-
+@RequiresApi(Build.VERSION_CODES.N)
 class InsecureShopProvider : ContentProvider() {
 
     companion object {
@@ -21,6 +23,7 @@ class InsecureShopProvider : ContentProvider() {
         uriMatcher?.addURI("com.insecureshop.provider", "insecure", URI_CODE)
         return true
     }
+
 
     override fun query(
         uri: Uri,

@@ -15,18 +15,18 @@ import com.insecureshop.databinding.ActivityLoginBinding
 import com.insecureshop.util.Prefs
 import com.insecureshop.util.Util
 
+@RequiresApi(Build.VERSION_CODES.N)
 class LoginActivity : AppCompatActivity() {
     lateinit var mBinding: ActivityLoginBinding
 
-    @RequiresApi(Build.VERSION_CODES.M)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        mBinding =
-            DataBindingUtil.setContentView<ActivityLoginBinding>(this, R.layout.activity_login)
+        mBinding = DataBindingUtil.setContentView(this, R.layout.activity_login)
         when {
             else -> {
                 requestPermissions(
                     arrayOf(
+                        Manifest.permission.READ_CONTACTS,
                         Manifest.permission.WRITE_EXTERNAL_STORAGE,
                         Manifest.permission.READ_EXTERNAL_STORAGE
                     ), 100
@@ -45,7 +45,7 @@ class LoginActivity : AppCompatActivity() {
         Log.d("password", password)
 
 
-        var auth = Util.verifyUserNamePassword(username, password)
+        val auth = Util.verifyUserNamePassword(username, password)
         if (auth) {
             Prefs.getInstance(applicationContext).username = username
             Prefs.getInstance(applicationContext).password = password
@@ -61,7 +61,7 @@ class LoginActivity : AppCompatActivity() {
                             packageName,
                             Context.CONTEXT_INCLUDE_CODE or Context.CONTEXT_IGNORE_SECURITY
                         )
-                        val value: Any = packageContext.classLoader
+                        val value: Any? = packageContext.classLoader
                             .loadClass("com.insecureshopapp.MainInterface")
                             .getMethod("getInstance", Context::class.java)
                             .invoke(null, this)

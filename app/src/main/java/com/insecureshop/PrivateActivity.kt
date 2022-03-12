@@ -1,13 +1,15 @@
 package com.insecureshop
 
 import android.content.Intent
+import android.os.Build
 import android.os.Bundle
 import android.webkit.WebView
+import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
 import com.insecureshop.util.Prefs
 import kotlinx.android.synthetic.main.activity_product_list.*
 
-
+@RequiresApi(Build.VERSION_CODES.N)
 class PrivateActivity : AppCompatActivity() {
 
     val USER_AGENT =
@@ -21,7 +23,8 @@ class PrivateActivity : AppCompatActivity() {
 
         val webview = findViewById<WebView>(R.id.webview)
 
-        webview.settings.javaScriptEnabled = true
+//        CAMBIAMOS ESTO PARA EVITAR XSS --> webview.settings.javaScriptEnabled = true
+        webview.settings.javaScriptEnabled = false
         webview.settings.loadWithOverviewMode = true
         webview.settings.useWideViewPort = true
         webview.settings.userAgentString = USER_AGENT

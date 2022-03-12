@@ -2,13 +2,15 @@ package com.insecureshop
 
 import android.content.Intent
 import android.content.IntentFilter
+import android.os.Build
 import android.os.Bundle
 import android.view.View
+import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
 import com.insecureshop.util.Prefs
 import kotlinx.android.synthetic.main.activity_about_us.*
 
-
+@RequiresApi(Build.VERSION_CODES.N)
 class AboutUsActivity : AppCompatActivity() {
 
     lateinit var receiver: CustomReceiver

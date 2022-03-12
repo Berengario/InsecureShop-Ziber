@@ -6,9 +6,11 @@ import android.content.UriMatcher
 import android.database.Cursor
 import android.database.MatrixCursor
 import android.net.Uri
+import android.os.Build
+import androidx.annotation.RequiresApi
 import com.insecureshop.util.Prefs
 
-
+@RequiresApi(Build.VERSION_CODES.N)
 class InsecureshopFileProvider : ContentProvider() {
 
     companion object {

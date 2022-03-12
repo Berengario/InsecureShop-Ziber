@@ -1,0 +1,239 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.insecureshop"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:6:5-80
+12-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.READ_CONTACTS" />
+14-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:8:5-72
+14-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:8:22-69
+15
+16    <permission android:name="com.insecureshop.permission.READ" />
+16-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:10:5-67
+16-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:10:17-64
+17
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->[net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:14:5-68
+18-->[net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:14:22-65
+19
+20    <application
+20-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:12:5-96:19
+21        android:name="com.insecureshop.InsecureShopApp"
+21-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:13:9-40
+22        android:allowBackup="true"
+22-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:14:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.3.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\6d98a1bb60f9c1bed214156c3c70734d\transformed\core-1.3.0\AndroidManifest.xml:24:18-86
+24        android:debuggable="true"
+25        android:icon="@mipmap/ic_launcher"
+25-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:15:9-43
+26        android:label="@string/app_name"
+26-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:16:9-41
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:17:9-54
+28        android:supportsRtl="true"
+28-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:18:9-35
+29        android:theme="@style/AppTheme"
+29-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:19:9-40
+30        android:usesCleartextTraffic="true" >
+30-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:20:9-44
+31        <activity
+31-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:21:9-44:20
+32            android:name="com.insecureshop.ChooserActivity"
+32-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:22:13-44
+33            android:excludeFromRecents="true" >
+33-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:23:13-46
+34            <intent-filter>
+34-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:24:13-28:29
+35                <action android:name="android.intent.action.VIEW" />
+35-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:25:17-69
+35-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:25:25-66
+36
+37                <category android:name="android.intent.category.DEFAULT" />
+37-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:27:17-76
+37-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:27:27-73
+38            </intent-filter>
+39            <intent-filter>
+39-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:29:13-39:29
+40                <action android:name="android.intent.action.SEND" />
+40-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:30:17-69
+40-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:30:25-66
+41
+42                <category android:name="android.intent.category.DEFAULT" />
+42-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:27:17-76
+42-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:27:27-73
+43
+44                <data android:mimeType="application/*" />
+44-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:34:17-58
+44-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:34:23-55
+45                <data android:mimeType="audio/*" />
+45-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:34:17-58
+45-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:34:23-55
+46                <data android:mimeType="image/*" />
+46-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:34:17-58
+46-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:34:23-55
+47                <data android:mimeType="text/*" />
+47-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:34:17-58
+47-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:34:23-55
+48                <data android:mimeType="video/*" />
+48-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:34:17-58
+48-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:34:23-55
+49            </intent-filter>
+50
+51            <meta-data
+51-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:41:13-43:69
+52                android:name="android.service.chooser.chooser_target_service"
+52-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:42:17-78
+53                android:value=".ConversationChooserTargetService" />
+53-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:43:17-66
+54        </activity>
+55        <activity
+55-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:45:9-47:39
+56            android:name="com.insecureshop.AboutUsActivity"
+56-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:46:13-44
+57            android:exported="true" />
+57-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:47:13-36
+58        <activity android:name="com.insecureshop.CartListActivity" />
+58-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:48:9-54
+58-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:48:19-51
+59        <activity android:name="com.insecureshop.ProductListActivity" >
+59-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:49:9-55:20
+59-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:49:19-54
+60            <intent-filter>
+60-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:50:13-54:29
+61                <action android:name="android.intent.action.MAIN" />
+61-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:51:17-69
+61-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:51:25-66
+62
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:53:17-77
+63-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:53:27-74
+64            </intent-filter>
+65        </activity>
+66        <activity android:name="com.insecureshop.LoginActivity" />
+66-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:56:9-51
+66-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:56:19-48
+67        <activity android:name="com.insecureshop.WebViewActivity" >
+67-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:57:9-67:20
+67-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:57:19-50
+68            <intent-filter>
+68-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:58:13-66:29
+69                <action android:name="android.intent.action.VIEW" />
+69-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:25:17-69
+69-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:25:25-66
+70
+71                <category android:name="android.intent.category.DEFAULT" />
+71-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:27:17-76
+71-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:27:27-73
+72                <category android:name="android.intent.category.BROWSABLE" />
+72-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:61:17-78
+72-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:61:27-75
+73
+74                <data
+74-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:34:17-58
+75                    android:host="com.insecureshop"
+75-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:64:21-52
+76                    android:scheme="insecureshop" />
+76-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:65:21-50
+77            </intent-filter>
+78        </activity>
+79        <activity android:name="com.insecureshop.WebView2Activity" >
+79-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:68:9-74:20
+79-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:68:19-51
+80            <intent-filter>
+80-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:69:13-73:29
+81                <action android:name="com.insecureshop.action.WEBVIEW" />
+81-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:70:17-74
+81-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:70:25-71
+82
+83                <category android:name="android.intent.category.DEFAULT" />
+83-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:27:17-76
+83-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:27:27-73
+84                <category android:name="android.intent.category.BROWSABLE" />
+84-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:61:17-78
+84-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:61:27-75
+85            </intent-filter>
+86        </activity>
+87        <activity
+87-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:75:9-77:40
+88            android:name="com.insecureshop.PrivateActivity"
+88-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:76:13-44
+89            android:exported="false" />
+89-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:77:13-37
+90        <activity android:name="com.insecureshop.SendingDataViaActionActivity" >
+90-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:78:9-80:20
+90-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:78:19-63
+91        </activity>
+92        <activity
+92-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:81:9-75
+93            android:name="com.insecureshop.ResultActivity"
+93-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:81:19-49
+94            android:exported="true" />
+94-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:81:50-73
+95
+96        <provider
+96-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:82:9-86:73
+97            android:name="com.insecureshop.contentProvider.InsecureShopProvider"
+97-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:83:13-65
+98            android:authorities="com.insecureshop.provider"
+98-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:84:13-60
+99            android:exported="true"
+99-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:85:13-36
+100            android:readPermission="com.insecureshop.permission.READ" />
+100-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:86:13-70
+101        <provider
+101-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:87:9-95:20
+102            android:name="androidx.core.content.FileProvider"
+102-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:88:13-62
+103            android:authorities="com.insecureshop.file_provider"
+103-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:89:13-65
+104            android:exported="false"
+104-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:90:13-37
+105            android:grantUriPermissions="true" >
+105-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:91:13-47
+106            <meta-data
+106-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:92:13-94:58
+107                android:name="android.support.FILE_PROVIDER_PATHS"
+107-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:93:17-67
+108                android:resource="@xml/provider_paths" />
+108-->C:\Users\elizondo.mikel\Desktop\ESJ- Gehigarriak\InsecureShop-Ziber\app\src\main\AndroidManifest.xml:94:17-55
+109        </provider>
+110
+111        <service
+111-->[net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:17:9-21:19
+112            android:name="net.gotev.uploadservice.UploadService"
+112-->[net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:18:13-65
+113            android:enabled="true"
+113-->[net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:19:13-35
+114            android:exported="true" >
+114-->[net.gotev:uploadservice:3.2.3] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\5b78ab9e47d922c2a87e8ce6b6cdf56c\transformed\jetified-uploadservice-3.2.3\AndroidManifest.xml:20:13-36
+115        </service>
+116
+117        <provider
+117-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ba060f7c5ad25f9740de62d5c6a2d55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+118            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+118-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ba060f7c5ad25f9740de62d5c6a2d55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+119            android:authorities="com.insecureshop.lifecycle-process"
+119-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ba060f7c5ad25f9740de62d5c6a2d55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+120            android:exported="false"
+120-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ba060f7c5ad25f9740de62d5c6a2d55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+121            android:multiprocess="true" />
+121-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\elizondo.mikel\.gradle\caches\transforms-3\ba060f7c5ad25f9740de62d5c6a2d55e\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+122    </application>
+123
+124</manifest>
